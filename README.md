@@ -1,5 +1,5 @@
 # Simple_Data_Cleaning_Example_With_Python
-In this based on Codecademy's challenges I will show you how to make
+In this based on one of Codecademy's challenges I will show you how to make
 a simple cleaning of a dataset, using loops and operations with strings. 
 There you can see in worksuch methods as: .replace(), format(), split(), strip() etc.
 
